@@ -57,7 +57,7 @@ username: garduini
 repo: sapinrisien
 branch: master
 relative_source: ../sapinrisien/
-destination: ../sapinrisien-pages/
+destination: ../gh-pages/
 production_url:  https://garduini.github.io/sapinrisien/
 source_url:      https://github.com/garduini/sapinrisien/
 
