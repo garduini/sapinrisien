@@ -5,23 +5,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
+name: 'Sapinrisien'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Geoffrey Arduini'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: Geoffrey
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+location: 'Paris, France'
+url: 'http://garduini.github.io/sapinrisien/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'garduini.github.io/sapinrisien/'
+google_analytics: UA-xxxx
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /sapinrisien/
 
 # Permalinks
 permalink: /:title
@@ -54,13 +54,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: garduini
+repo: sapinrisien
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+relative_source: ../sapinrisien/
+destination: ../sapinrisien-pages/
+production_url:  https://garduini.github.io/sapinrisien/
+source_url:      https://github.com/garduini/sapinrisien/
 
 exclude:
   - README.md
