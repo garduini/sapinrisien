@@ -54,10 +54,10 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: garduini
-repo: garduini
+repo: sapinrisien
 branch: master
 relative_source: ../sapinrisien/
-destination: sapinrisien
+destination: ../sapinrisien/
 production_url:  https://garduini.github.io/sapinrisien/
 source_url:      https://github.com/garduini/sapinrisien/
 
